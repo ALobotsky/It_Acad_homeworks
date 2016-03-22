@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.4-sources.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.8.0-20160227.022329-14.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.8.0-20160227.021854-17-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.8.0-20160227.021854-17.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.8.0-20160301.201521-33-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.8.0-20160301.201521-33-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.8.0-20160301.201521-33.jar"/>
+	<classpathentry kind="lib" path="lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
